@@ -1,7 +1,7 @@
 " Vim filetype plugin
-" Language:    ndtl
+" Language:    indental 
 " Maintainer:  Chris Kipp
-" URL:         https://github.com/ckipp01/vim-ndtl
+" URL:         https://github.com/ckipp01/vim-indental
 " License:     MIT
 " ---------------------------------------------------------
 

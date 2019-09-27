@@ -1,0 +1,11 @@
+*indental.txt* Syntax highlighting for indental files.
+
+===========================================================
+INTRODUCTION                            *indental*
+
+This plugin provides syntax highlight for indental files.
+You are able to find more information about indental on
+https://wiki.xxiivv.com/#indental
+
+-----------------------------------------------------------
+vim:tw=60:ts=1:ft=help:norl:
