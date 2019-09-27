@@ -1,6 +1,7 @@
 # vim-indental
 
 Vim syntax for [indental](https://wiki.xxiivv.com/#indental)
+
 This is very much a work in progress. In it's current state it provides basic syntax
 highlighting. However, the highlighting for lists needs to be improved, and currently,
 lines that contain urls are just skipped.
